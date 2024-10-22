@@ -4,7 +4,7 @@ This project uses the Azure OpenAI service with a deployed legacy GPT-35-turbo b
 
 Navigate to https://victory-openai-search-demo.netlify.app to view the application
 
-<img src="./images/Screenshot-1.png" style="height: 600px; width: 70%; object-fit: cover;" />
+<img src="./images/Screenshot-1.png" style="object-fit: cover;" />
 
 ### Azure Services; 
 
